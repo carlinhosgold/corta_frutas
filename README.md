@@ -1,2 +1,1 @@
-# corta_frutas
-ninja
+# project-template-C19
